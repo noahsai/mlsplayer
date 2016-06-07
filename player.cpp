@@ -13,7 +13,7 @@ player::player(QWidget *parent) :
 {
     ui->setupUi(this);
     U_A ="Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko (bigrats web browser  0.4.7.9r)";
-    QtAV::setFFmpegLogLevel("debug");
+   // QtAV::setFFmpegLogLevel("debug");
     QDir().mkpath(cfgpath);
     whatstime = new QLabel(ui->widget_2);
     whatstime->setBackgroundRole(QPalette::Dark);
