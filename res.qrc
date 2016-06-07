@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>2116.png</file>
+        <file>2300.png</file>
+        <file>dl.png</file>
+        <file>err.png</file>
+        <file>fin.png</file>
+        <file>mls.png</file>
+        <file>ready.png</file>
+        <file>stop.png</file>
+        <file>tudou.css</file>
+    </qresource>
+</RCC>
